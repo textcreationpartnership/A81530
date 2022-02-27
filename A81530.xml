@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A discovery of many, great, and bloudy roberies committed of late by dissolute and evill affected troopers, in severall places of this kingdome, but chiefly about the City of London. Since the late disbanding of the army in the north. With a relation of the times, places, and persons, on on [sic] whom these roberies were committed. Wherein is inserted the description of a bloudy combate, fought betweene 9 troopers and 6 butchers, meeting on the high-way, and what ensued. With divers other out-rages, and abuses, acted by them within this city.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81530</idno>
+            <idno type="STC">Wing D1642</idno>
+            <idno type="STC">Thomason E172_25</idno>
+            <idno type="STC">ESTC R17223</idno>
+            <idno type="EEBO-CITATION">99860162</idno>
+            <idno type="PROQUEST">99860162</idno>
+            <idno type="VID">112271</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81530)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112271)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 30:E172[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A discovery of many, great, and bloudy roberies committed of late by dissolute and evill affected troopers, in severall places of this kingdome, but chiefly about the City of London. Since the late disbanding of the army in the north. With a relation of the times, places, and persons, on on [sic] whom these roberies were committed. Wherein is inserted the description of a bloudy combate, fought betweene 9 troopers and 6 butchers, meeting on the high-way, and what ensued. With divers other out-rages, and abuses, acted by them within this city.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>for Iohn Thomas,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Robbery --  England --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Violence --  England --  London --  Early works to 1800.</term>
+               <term>London (England) --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112271:1" rendition="simple:additions"/>
+            <p>A DISCOVERY Of many, great, and Bloudy ROBERIES: COMMITTED OF LATE BY DISSOLVTE AND Evill affected TROOPERS.</p>
+            <p>
+               <hi>Jn ſeverall places of this Kingdome, but chiefly about the City of London.</hi>
+            </p>
+            <p>Since the late disbanding of the <hi>Army</hi> in the <hi>North.</hi>
+            </p>
+            <p>With a Relation of the Times, Places, and Perſons, on on whom theſe <hi>Roberies</hi> were committed.</p>
+            <p>WHEREIN Is inserted the Deſcription of a bloudy Combate, fought <hi>betweene</hi> 9 Troopers and 6 Butchers, meeting on the High-way, and what enſued. With divers other Out-rages, and Abuſes, acted by them within this City.</p>
+            <p>Printed at <hi>London</hi> for <hi>Iohn Thomas,</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div n="robberies" type="account">
+            <pb facs="tcp:112271:2"/>
+            <pb facs="tcp:112271:2"/>
+            <head>A Relation of divers Robberies of late committed by divers ill-affected Troopers, both in the Country, and neare the City of London.</head>
+            <p>IOyfull newes it is to all good men, that a general peace is concluded betweene <hi>England and Scotland,</hi> warlike weapons are laid aſide, and each embrace the other in a<g ref="char:EOLhyphen"/>mity and unity; which newes cannot be more joyfull then profitable, generally I mean. But ſome particular wrongs &amp; injuries are acted by thoſe, whoſe thoughts are bent upon nothing but miſchiefe, their actions being governed by the malice of the Divell, ſome I ſay, prove themſelves Rebels to peace, they having no forrain Nation to make known their valour, or fight againſt. They to keepe themſelves in action, moſt baſely pillage their owne Country-men; as if they had left them onely to gather goods, and to provide means, againſt their comming home againe, which proclaims them Traytors to vertue and goodneſſe: and if they looke not to it ſpeedily, it will be their owne ruine.</p>
+            <p>Complaints flye abroad every where, no man almoſt dares truſt himſelfe to the high wayes, for feare leſt he loſe his purſe, or his life, which is dearer. <hi>I have ſome ſuch actions to declare, as will cauſe ſome laughter, but more ſorrow.</hi>
+            </p>
+            <p>The Robery which was ſaid to be committed in the <hi>North, Knowles being the Ring-leader, I omit, it being divulged al<g ref="char:EOLhyphen"/>ready, although not perfectly, but as I underſtand, the Author, or Poet, hath fooliſhly recanted his Relation, with a tongue thou beſt: but politike</hi> Taylor <hi>is reſolved to prove his</hi> recantation <hi>more falſe then his</hi> relation: <hi>he had better bin then in his fool<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Coat, acting Iack-pudding, then to have been partaker in that robbery.</hi> But I leave him, and proceed to my owne relation, of ſome roberies, lately committed by Troopers ſince their disbanding.</p>
+            <pb facs="tcp:112271:3"/>
+            <p>At <hi>Kingſtone</hi> upon <hi>Hull</hi> 5 Troopers met with 7 <hi>Clothiers,</hi> whoſe purſes were cramb'd with ſuch Angels, as they ado<g ref="char:EOLhyphen"/>red, the troopers did ſet upon them with their Piſtols charg'd in one hand, and their ſwords ready drawne in the other: the <hi>Clothiers</hi> were not ſo well armed; <hi>wherefore for ſafeguard of their lives, they yeelded their purſes, the ſumme of all which money came to about</hi> 400 <hi>pounds, which weight of mo<g ref="char:EOLhyphen"/>ney made the troopers light-hearted:</hi> but it continued not long, for 5 of the <hi>Clothiers</hi> kept aloofe off, marking whither they would goe, whilſt the two went for Piſtols; which when they had got, they being well horſed, purſued the troo<g ref="char:EOLhyphen"/>pers, and overtooke them, which the troopers perceiving, were amazed: becauſe not long before for joy of their pur<g ref="char:EOLhyphen"/>chaſe, they had diſcharged their Piſtols, whereſore without any reſiſtance, they returned the Clothiers their moneyes a<g ref="char:EOLhyphen"/>gaine, who gave them ten pound a man for their horſes, and ſo they departed.</p>
+            <p>At <hi>Barwick,</hi> one <hi>Iohn Hawkins</hi> a trooper, and an <hi>Iriſh man</hi> met with 6 Maids, &amp; rob'd them all? but of what, their Mai<g ref="char:EOLhyphen"/>denheads.</p>
+            <p>In <hi>Cambridgeſhire</hi> 14 Troopers travelling from Yorke<g ref="char:EOLhyphen"/>ſhire, made a reſolution to receive pay of the next compa<g ref="char:EOLhyphen"/>ny they met withall, which were a company of Farmers comming from Cambridge, whom they gagged, leſt they ſhould cry out, they took their moneyes and cloathes, bound them hand &amp; foot, and then being <hi>naked,</hi> not having ſo <hi>much</hi> as a ſhirt on, they tyed them to trees, and ſo left them, and as yet cannot be found out, the loſſe of the money grieved the Farmers not ſo much, as the cold lodging they had that night.</p>
+            <div n="combat" type="account">
+               <pb facs="tcp:112271:3"/>
+               <head>How nine troopers ſet upon ſixe butchers.</head>
+               <p>SIxe butchers travelling towards the North to buy cattell, one of them ſaid, what if a company of Troopers ſhould now meet with us? <hi>the reſt anſwered,</hi> they cared not if they did, they had not rid above one mile further, but 9 Troopers met with them indeed, who told the Butchers they muſt have ſome money, they anſwered, they muſt get it firſt, whereupon the Troopers rid at them with their ſwords drawne, the butchers they reſiſted them very valiantly, in<g ref="char:EOLhyphen"/>ſomuch that the troopers retreated, whereupon the butchers tooke courage, and renewed their blowes, the Troopers thought they had ſet upon 6 Divels, they were ſo baſtina<g ref="char:EOLhyphen"/>doed by them, Men were wounded on both ſides: but the butchers ſo well behaved themſelves, that the troopes were forced to truſt to the ſwiftneſſe of their horſes, which one ſtout butcher perceiving, being vext they would fight no more, with all his might he threw his ſword at a troopers horſes legs and almoſt cut of one off his legs, nor was he contented then, being ſo much moved, but a lighting from his horſe, and ſnatching up his ſword againe, he purſu<g ref="char:EOLhyphen"/>ed <hi>them, and cut and mangled three of them ſo much, that they fell from their horſes, is men being void of breath, the other</hi> 6 <hi>rid into the wood, or elſe he vowed</hi> (by the helpe of God) <hi>to have done the like for them all, his name was Thomas Aſhley:</hi> who although he were in many places <hi>wounded,</hi> he regarded it not, but <hi>went forward,</hi> untill they all came to their Jour<g ref="char:EOLhyphen"/>neyes end, and then were their <hi>wounds</hi> dreſſed: and ſince, I heare well recovered.</p>
+            </div>
+            <div n="robbery" type="account">
+               <pb facs="tcp:112271:4"/>
+               <head>Of a Coach that was rob'd neere Iſlington.</head>
+               <p>The Troopers have not all reformed themſelves ſince they came from the North, although ſome few have; for ſome of them play their prancks now in and about London: for nigh the <hi>Cake-houſe</hi> towards Iſlington, it being a dark night, fourteen troopers met a <hi>Coach,</hi> in which were 3 or 4 Gentle<g ref="char:EOLhyphen"/>women, &amp; a gentleman, having bin at a wedding, they knockt the Coachman out of the box, and then got up to the Coach to the Gentlewomen, and took all their money out of their pockets, their rings from their fingers, their handkerchers from their necks, their hats from their heads, and from each of them their beſt petticoates, and from the Gentleman a pluſh cloak, a golden belt and Rapier, and took care withall that he carryed not home too much money with him, they took from them in all, as much as came to ſixſcore pounds, and then bid the <hi>Coachman</hi> got up into his box againe.</p>
+               <p>Another coach comming from Warford to <hi>London,</hi> wher<g ref="char:EOLhyphen"/>in was a <hi>Counteſſe,</hi> and ſome other Ladies, was ſtayed in the high-way before the Sun was ſet, by 3 troopers, who pilla<g ref="char:EOLhyphen"/>ged, and took all their money, rings, and Jewels that were a<g ref="char:EOLhyphen"/>bout them, and let them goe.</p>
+               <p>A Gentleman that lived in <hi>Buckingham</hi> ſhire, comming to <hi>London</hi> late at night, met a company of troopers neere <hi>Iſlington;</hi> who ſet upon him, and took his money being in a cloak bag behind him, wherein was a 100 pounds, and they took his horſe alſo from him, which he valued at 30 pounds.</p>
+               <p>
+                  <hi>A</hi> Captaine living in <hi>Covent-garden,</hi> was lately rob'd of 14 <abbr>l.</abbr> by 8 troopers, neere the corner of <hi>Hide-park,</hi> who I heare ſince are taken, and lye now in the <hi>Gate-houſe.</hi>
+               </p>
+               <p>At the corner of <hi>Hide-park</hi> ſince, was a Ladies <hi>coach</hi> rob'd by a company of troopers, <hi>who tooke what money and rings they had about them.</hi>
+               </p>
+               <p>One Maſter <hi>Hackney</hi> at the <hi>Mearemaid</hi> in <hi>Cheapſide,</hi> and two others, comming lately from <hi>Iſlington,</hi> being after day
+<pb facs="tcp:112271:4"/>light was ſhutting met 4 or 5 troopers, who <hi>tooke their cloaks and hats, and what moneyes they found about them.</hi>
+               </p>
+               <p>One Mr. <hi>Meredith</hi> being on Sunday night the 3 of Octo<g ref="char:EOLhyphen"/>ber in <hi>Vhite-croſſe ſtreet,</hi> going to his lodging at Bun-hill, neare to the ſixe Windmils, met with 3 fellowes in buf<g ref="char:EOLhyphen"/>coats, who ſeeing of him, bid him ſtand, putting their rapiers to his throat, at that time he had received 11 pounds for rent, which they bid him deliver, or elſe he ſhould loſe his life, which he did according to their demand, with which they were not contented, but took alſo his cloake, and thirty ſhil<g ref="char:EOLhyphen"/>lings more; which he had in another purſe: and alſo his watch, and beat him very much, <hi>which cauſed him to goe back to the watch, who preſently purſued them: three they tooke upon ſuſpition; but as yet they are not ſure they are the theeves.</hi>
+               </p>
+               <p>Vpon munday night being the fourth of October, ſeven Troopers met with Sir <hi>Robert Manſfield</hi> beyond <hi>Kentſtreet</hi> in <hi>Southwark</hi> and ſet upon him and his men; and over-com<g ref="char:EOLhyphen"/>ming them, took away fourteen pounds: it being noyſed a<g ref="char:EOLhyphen"/>broad, they were hard purſued: they ſeeing, reſolutely drew their ſwords; which one goodman Dyar perceiving, ruſht in amongſt <hi>them,</hi> whom they wounded in the arme and hand: notwithſtanding the theeves fled and got away, and are not yet to be heard of.</p>
+               <p>
+                  <hi>Many more noteable robberies have bin put upon troopers, of all which I dare not, nor cannot ſay they are guilty, but one more remarkeable Exploit I have to relate.</hi>
+               </p>
+               <p>A Company of them gathered themſelves neare <hi>Clarken<g ref="char:EOLhyphen"/>well,</hi> one of which had got a <hi>Conſtables</hi> ſtaffe, the reſt Hal<g ref="char:EOLhyphen"/>berts, like watchmen, &amp; when they met with any, they muſt come before the Conſtable, and he muſt examine them; and after examination, they muſt by no <hi>means,</hi> if they had <hi>cloaks,</hi> carry them away with <hi>them,</hi> or <hi>money</hi> in their pockets. The Conſtable (becauſe the <hi>times</hi> were dangerous, and many Knaves abroad) <hi>muſt</hi> keepe it for them, faining a place where
+<pb facs="tcp:112271:5"/>in the <hi>morning</hi> they ſhould enquire for <hi>them;</hi> but as yet the Conſtables houſe could never be found. Very many this Yeare have beene ſo cheated. But now the watch is broke up, ſome of the Bill-men being at this time, as is reported, in the white Lyon Priſon, the Conſtable is fled, but J hope ſhortly that he and all his <hi>Complices,</hi> if they leave not theſe lewd courſes, the penalty of the law will leave them at the Gallowes, where I ſhall leave them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
